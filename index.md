@@ -1,4 +1,4 @@
-# Hello, I am Two-way player
+# Hello, I am Two-way player.
 
 ## GitHub
 
@@ -14,8 +14,8 @@
 
 ## Technology stack
 
-### Programing langage / Library etc.
+Programing langage / Library etc.
 - HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Nuxt.js, GraphQL
   
-### Infrastructure
+Infrastructure
 - AWS, Firebase
