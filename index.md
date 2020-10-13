@@ -2,7 +2,7 @@
 
 ## GitHub
 
-https://https://github.com/ystgs
+- [🐙](https://https://github.com/ystgs "GitHub")
 
 ## My portfolio
 
