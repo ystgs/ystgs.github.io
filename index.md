@@ -10,7 +10,7 @@
 - [anone](https://anone.me/ "anone")
 - [dnusAgent](https://agent.dnus.jp/ "dnusAgent")
 - [芦屋市テニス協会HP](https://ashiya-tennis.com/ "芦屋市テニス協会HP")
-- [React+Redux環境に『Jest』と『 Enzyme』を導入し、フロントエンドでのテスト環境を構築しました](https://tech.zeals.co.jp/entry/2019/09/30/144410 "React+Redux環境に『Jest』と『 Enzyme』を導入し、フロントエンドでのテスト環境を構築しました")
+- [React+Redux環境に『Jest』と『 Enzyme』を導入し、フロントエンドでのテスト環境を構築しました（tech blog）](https://tech.zeals.co.jp/entry/2019/09/30/144410 "React+Redux環境に『Jest』と『 Enzyme』を導入し、フロントエンドでのテスト環境を構築しました")
 
 ## Technology stack
 
