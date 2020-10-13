@@ -23,4 +23,4 @@ Infrastructure
 
 ## note
 
-[📖](https://note.com/yt_aka_kaku "note")
+[hogge](https://note.com/yt_aka_kaku "note")
