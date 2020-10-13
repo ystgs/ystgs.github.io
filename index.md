@@ -21,6 +21,6 @@ Programing langage / Library etc.
 Infrastructure
 - AWS, Firebase
 
-## note
+## [note](https://note.com/ "note")
 
-[📓](https://note.com/yt_aka_kaku "note")
+[📓](https://note.com/yt_aka_kaku "my note")
