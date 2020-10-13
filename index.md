@@ -21,6 +21,6 @@ Programing langage / Library etc.
 Infrastructure
 - AWS, Firebase
 
-## poems (note)
+## Poem (note)
 
 [📓](https://note.com/yt_aka_kaku "my note")
