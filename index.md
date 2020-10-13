@@ -14,8 +14,8 @@ https://https://github.com/ystgs
 
 ## Technology stack
 
-- Programing langage / Library etc.
-  - HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Nuxt.js, GraphQL
+### Programing langage / Library etc.
+- HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Nuxt.js, GraphQL
   
-- Infrastructure
-  - AWS, Firebase
+### Infrastructure
+- AWS, Firebase
