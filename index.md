@@ -21,6 +21,10 @@ Programing langage / Library etc.
 Infrastructure
 - AWS, Firebase
 
+## kaggle
+
+[k](https://www.kaggle.com/ytkaggler "k")
+
 ## Poem (note)
 
 [📓](https://note.com/yt_aka_kaku "my note")
