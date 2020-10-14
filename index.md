@@ -1,9 +1,5 @@
 # Hello, I am Two-way player.
 
-## GitHub
-
-[🐙](https://github.com/ystgs "GitHub")
-
 ## My portfolio
 
 - [Cred](https://cred-biz.me/ "Cred")
@@ -20,6 +16,10 @@ Programing langage / Library etc.
   
 Infrastructure
 - AWS, Firebase
+
+## GitHub
+
+[🐙](https://github.com/ystgs "GitHub")
 
 ## kaggle
 
