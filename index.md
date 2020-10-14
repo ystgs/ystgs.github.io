@@ -18,7 +18,7 @@ Infrastructure
 - AWS, Firebase
 
 Design tool
-- Sketch
+- Sketch, figma
 
 ## GitHub
 
