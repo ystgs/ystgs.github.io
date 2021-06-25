@@ -1,6 +1,6 @@
 # Hello, I am Two-way player.
 
-## My portfolio
+## My portfolio (Only what can be published)
 
 - [Cred](https://cred-biz.me/ "Cred")
 - [anone](https://anone.me/ "anone")
