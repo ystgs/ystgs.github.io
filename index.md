@@ -5,7 +5,7 @@
 - [Cred](https://cred-biz.me/ "Cred")
 - [anone](https://anone.me/ "anone")
 - [dnusAgent](https://agent.dnus.jp/ "dnusAgent")
-- [Huzen](https://huzen-kyoto.netlify.app/ "Huzen") [temporary closed]
+- [Huzen](https://huzen-kyoto.netlify.app/ "Huzen")
 - [芦屋市テニス協会HP](https://ashiya-tennis.com/ "芦屋市テニス協会HP")
 - [【テックブログ】React+Redux環境に『Jest』と『 Enzyme』を導入し、フロントエンドでのテスト環境を構築しました](https://tech.zeals.co.jp/entry/2019/09/30/144410 "テックブログ")
 
