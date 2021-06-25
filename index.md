@@ -12,7 +12,7 @@
 ## Technology stack
 
 Programing langage / Library etc.
-- HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Nuxt.js, GraphQL
+- HTML, CSS, JavaScript, TypeScript, Dart, React.js, Vue.js, Nuxt.js, Flutter, GraphQL
   
 Infrastructure
 - AWS, Firebase
