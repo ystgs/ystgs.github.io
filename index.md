@@ -12,16 +12,32 @@
 ## Technology stack
 
 Programing langage
-- HTML, CSS, JavaScript, TypeScript, Dart, GraphQL, node.js, Java
+- HTML/CSS
+- JavaScript
+- TypeScript
+- Dart
+- node.js
+- Java
+- GraphQL
+- SQL
 
 Programing framework
-- React.js, Vue.js, Nuxt.js, Flutter, Express, SpringBoot
+- React.js
+- Vue.js
+- Nuxt.js
+- Flutter
+- Express
+- SpringBoot
   
 Infrastructure
-- AWS, GCP, Airtable
+- AWS
+- GCP
+- Airtable
+- CosmicJS
 
 Design tool
-- Sketch, Figma
+- Sketch
+- Figma
 
 ## GitHub
 
