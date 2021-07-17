@@ -1,5 +1,3 @@
-# Hello, I'm a surfer.
-
 ## Products (Only what could be published)
 
 - [Cred](https://cred-biz.me/ "Cred")
