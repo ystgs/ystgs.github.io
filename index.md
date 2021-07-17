@@ -11,11 +11,14 @@
 
 ## Technology stack
 
-Programing langage / Library etc.
-- HTML, CSS, JavaScript, TypeScript, Dart, React.js, Vue.js, Nuxt.js, Flutter, GraphQL
+Programing langage
+- HTML, CSS, JavaScript, TypeScript, Dart, GraphQL, node.js, Java
+
+Programing framework
+- React.js, Vue.js, Nuxt.js, Flutter, Express, SpringBoot
   
 Infrastructure
-- AWS, Firebase
+- AWS, GCP, Airtable
 
 Design tool
 - Sketch, Figma
@@ -28,6 +31,6 @@ Design tool
 
 [k](https://www.kaggle.com/ytkaggler "k")
 
-## Poem (note)
+## Poem
 
 [📓]()
